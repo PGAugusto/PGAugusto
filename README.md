@@ -1,4 +1,3 @@
-
 <h2 align="center">Hi 👋, I'm Pilar González :woman:</h2>
 <h3 align="center">A Computer Science Teacher from Málaga - Spain</h3>
 
