@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Pilar González :woman:</h2>
 <h3 align="center">A Computer Science Teacher from Málaga - Spain</h3>
 
-- :computer: I’m currently working on [CPIFP Nuevo Desglose (Campanillas)](https://fp.iescampanillas.com/)
+- :computer: I’m currently working at [CPIFP Nuevo Desglose (Campanillas)](https://fp.iescampanillas.com/)
 
 - 📫 How to contact me by email **pgonaug909@g.educaand.es**
 - :books: Moodle from [Departamento de Informática del CPIFP](https://educacionadistancia.juntadeandalucia.es/centros/malaga/)
